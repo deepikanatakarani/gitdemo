@@ -13,13 +13,7 @@ Features:
 7. Order History: Users can view their past orders and order details.
 
 Technologies Used:
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Authentication: JSON Web Tokens (JWT)
-- Payment Gateway Integration: (optional, if implemented)
-
-Setup Instructions:
-1. Clone the repository from [GitHub Repo URL].
-2. Navigate to the project directory.
-3. Install dependencies for both frontend and backend using npm or yarn.
+- Frontend: HTML, CSS
+  
+It is just an clone to Amazon.Beginners can go through it .Simple code and easy understandable
+It is totally about css and html.
