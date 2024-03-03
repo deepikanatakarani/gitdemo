@@ -17,6 +17,3 @@ Technologies Used:
   
 It is just an clone to Amazon.Beginners can go through it .Simple code and easy understandable
 It is totally about css and html.
-<p>
-  <img src="amazon.png">
-</p>
