@@ -17,4 +17,6 @@ Technologies Used:
   
 It is just an clone to Amazon.Beginners can go through it .Simple code and easy understandable
 It is totally about css and html.
-![Screenshot](image.png)
+<p>
+  <img src="image.png" width="300">
+</p>
