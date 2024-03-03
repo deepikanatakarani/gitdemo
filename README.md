@@ -1,4 +1,4 @@
-# Amazon Clone Project - README.dc
+# Amazon Clone Project 
 
 Overview:
 This project is a clone of the Amazon website, aiming to replicate its functionalities and user interface. It provides a platform for users to browse products, add them to their cart, and proceed with checkout. The project utilizes modern web development technologies and frameworks to achieve its objectives.
